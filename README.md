@@ -21,13 +21,13 @@ Make sure you have the required Python packages installed. You can install them 
 
 ```bash
 pip install -r requirements.txt
-
-## Prediction
+```
+### Prediction
 To predict the class and score for an image, run the following command:
 
 ```bash
 python predict.py -m model/weights.h5 -i test/00007.jpg
-
+```
 Replace model/weights.h5 with the path to your trained model and test/00007.jpg with the path to the image you want to predict.
 
 ## Training Guide
