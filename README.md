@@ -30,9 +30,6 @@ python predict.py -m model/weights.h5 -i test/00007.jpg
 ```
 Replace model/weights.h5 with the path to your trained model and test/00007.jpg with the path to the image you want to predict.
 
-## Training Guide
-Refer to the Jupyter Notebook file Training.ipynb for the training guide.
-
 
 ## Authors
 - prothej227/Journel Cabrillos
