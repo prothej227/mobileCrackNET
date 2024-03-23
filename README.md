@@ -6,7 +6,6 @@ A crack image classifier trained on pre-trained MobileNet. The data is trained o
 ## Requirements
 
 - numpy==1.19.5
-- tensorflow==2.11.0
 - tensorflow_gpu==2.5.0
 
 ## Training Guide
